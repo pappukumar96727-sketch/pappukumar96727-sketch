@@ -15,7 +15,7 @@
 👨‍💻 About Me
 - 🎓 B.Tech student specializing in Cyber Security
 - 🔐 Interested in API security, authentication, authorization, and ethical hacking
-- 💻 Learning Java, Python, SQL, and web development
+- 💻 Learning Java, Python, SQL, and web development        
 - 🧪 Practicing security testing, automated test cases, and access-control validation
 - 🤖 Exploring AI + Cybersecurity
 - ☁️ Exploring cloud platforms and enterprise technologies
@@ -89,9 +89,7 @@ Streak note: The streak card updates from GitHub contribution data. It does not 
 - [ ] Build practical AI-powered cybersecurity workflows
 - [ ] Keep contributing to team and open-source projects
 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</p>
+
 
 <p align="center">
   <i>Learn daily. Commit with purpose. Build secure software.</i>
