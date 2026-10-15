@@ -88,9 +88,6 @@ Streak note: The streak card updates from GitHub contribution data. It does not 
 - [ ] Improve Java and DSA skills
 - [ ] Build practical AI-powered cybersecurity workflows
 - [ ] Keep contributing to team and open-source projects
-🐍 Contribution Snake
-
-
 <p align="center">
   <i>Learn daily. Commit with purpose. Build secure software.</i>
 </p>
