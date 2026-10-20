@@ -1,216 +1,235 @@
-# 👋 Hi, I'm Pappu Kumar
+from pathlib import Path
 
-<h3 align="center">🛡️ Cybersecurity Student | 🔐 API Security Engineer in Training | ☕ Java Developer | 🤖 AI Security Enthusiast</h3>
+readme = r'''<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C7FF&center=true&vCenter=true&width=750&lines=Building+Secure+APIs;Testing+Authentication+%26+Authorization;Python+%7C+Java+%7C+Cybersecurity;OpenAPI+%26+Security+Regression+Testing;Exploring+AI-Powered+Cybersecurity" alt="Typing introduction"/>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:0B3D91,100:7B2FF7&text=Pappu%20Kumar&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Cybersecurity%20%7C%20API%20Security%20%7C%20Java%20%7C%20AI&descAlignY=59&descSize=17" width="100%" alt="Pappu Kumar profile header"/>
+
+<a href="https://github.com/pappukumar96727-sketch">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+and+testing+secure+APIs;Learning+through+hands-on+cybersecurity;Python+%7C+FastAPI+%7C+OpenAPI;Java+developer+in+progress;Secure+builds.+Useful+contributions." alt="Animated introduction"/>
+</a>
+
+<p>
+  <a href="https://github.com/pappukumar96727-sketch"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+  <a href="https://github.com/madhab-tech-cyber/APIsenX"><img src="https://img.shields.io/badge/Featured_Project-APIsenX-075985?style=for-the-badge&logo=github" alt="APIsenX repository"/></a>
+  <img src="https://img.shields.io/badge/Focus-API%20Security-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="API security focus"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/pappukumar96727-sketch">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-  <a href="https://github.com/madhab-tech-cyber/APIsenX">
-    <img src="https://img.shields.io/badge/Team_Project-APIsenX-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="APIsenX Repository"/>
-  </a>
-</p>
+**Cybersecurity student • API security enthusiast • Developer in progress**
+
+*Learn daily. Test thoroughly. Build securely. Contribute with purpose.*
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech student specializing in Cyber Security.
-- 🔐 Focused on API security, authentication, authorization, and access-control testing.
-- 🧪 Contributing to **APIsenX** as Member 5 — Mock API and OpenAPI Engineer.
-- 🐍 Working with Python, FastAPI, automated tests, and OpenAPI specifications.
-- ☕ Developing programming skills in Java, C++, SQL, and web technologies.
-- 🛡️ Practicing security regression testing, BOLA/BFLA prevention, and request validation.
-- 🔍 Interested in ethical hacking, secure software development, and AI-powered threat investigation.
-- 🌱 Learning through practical projects, daily tasks, code reviews, and collaborative Git workflows.
+- 🎓 B.Tech student specializing in **Cyber Security**.
+- 🔐 Interested in API security, authentication, authorization, and ethical hacking.
+- 🧪 **Member 5 — Mock API and OpenAPI Engineer** on the team project [APIsenX](https://github.com/madhab-tech-cyber/APIsenX).
+- 🐍 Working with Python, FastAPI, API contracts, and automated security tests.
+- ☕ Improving my Java, C++, SQL, and web-development skills.
+- 🤖 Exploring AI-powered cybersecurity and investigation workflows.
+- 🌱 Learning by building projects, testing edge cases, reviewing changes, and collaborating with Git.
 
-**My approach:** Learn by building, test security assumptions, document results, and improve code through evidence-based validation.
+## ⚡ Current Focus
+
+```text
+APIsenX        → Token-security testing and safe failure behavior
+API Security  → Authentication, authorization, BOLA/BFLA
+API Contracts → OpenAPI validation and runtime consistency
+Development   → Python, FastAPI, Java, Git and automated tests
+Next steps    → Java/DSA, AI + cybersecurity, cloud security
+```
 
 ## 🧰 Tech Stack
 
-### 👨‍💻 Programming & Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&theme=dark" alt="Programming and development skills"/>
-</p>
+### Languages & Web
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&theme=dark" alt="Python, Java, C++, JavaScript, HTML and CSS"/>
 
-### 🔐 API Security & Testing
+### API Development, Databases & Tools
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,git,github,linux,bash&theme=dark" alt="FastAPI, PostgreSQL, MySQL, Git, GitHub, Linux and Bash"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,bash,postgres,mysql&theme=dark" alt="API development, databases, and developer tools"/>
-</p>
+</div>
 
-- **API development:** FastAPI, REST APIs, HTTP methods, JSON.
-- **Authentication & authorization:** Bearer tokens, role and permission checks, object-level access control.
-- **Security testing:** BOLA/IDOR, BFLA, invalid inputs, protected-field validation, regression testing.
-- **API documentation:** OpenAPI 3.1.0, request and response schemas, HTTP status codes.
-- **Testing & quality:** Python `unittest`, pytest concepts, test isolation, contract validation.
-- **Security tools:** Nmap, Wireshark, Burp Suite.
-- **Platforms:** Git, GitHub, Microsoft Azure, Oracle Cloud, Salesforce, ServiceNow.
-- **Databases:** PostgreSQL, MySQL, SQL.
+| Area | Technologies / Topics |
+|---|---|
+| API development | FastAPI, REST, HTTP, JSON, Pydantic |
+| API documentation | OpenAPI 3.1.0, request/response schemas |
+| Security testing | Authentication, authorization, BOLA/IDOR, BFLA, input validation |
+| Testing | Python `unittest`, pytest concepts, regression and contract testing |
+| Security tools | Nmap, Wireshark, Burp Suite |
+| Databases | PostgreSQL, MySQL, SQL |
+| Platforms explored | Microsoft Azure, Oracle Cloud, Salesforce, ServiceNow |
 
-*These represent technologies and areas I have worked with or am actively learning, not necessarily professional-level proficiency in every tool.*
+*Skill icons indicate areas I use or explore; they do not imply expert-level proficiency in every technology.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 1. APIsenX — API Security & Mock API Engineering
+<div align="center">
 
-<p>
-  <a href="https://github.com/madhab-tech-cyber/APIsenX">
-    <img src="https://img.shields.io/badge/Repository-APIsenX-0A66C2?style=for-the-badge&logo=github" alt="APIsenX repository"/>
-  </a>
-  <img src="https://img.shields.io/badge/Role-Member%205-00C7FF?style=for-the-badge" alt="Member 5 role"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**My role:** Member 5 — Mock API and OpenAPI Engineer.
+### 🔐 APIsenX
+**API Security & Mock API Engineering**
 
-APIsenX is a collaborative API security project. My contribution focuses on building and validating a mock API, documenting its contract, and testing authentication, authorization, and error-handling behavior.
+My team-project contribution as **Member 5 — Mock API and OpenAPI Engineer**.
 
-**Key engineering contributions:**
+- Built a mock REST API with FastAPI.
+- Worked on bearer authentication and role/permission checks.
+- Added authorization and BOLA/BFLA regression scenarios.
+- Improved validation and error-response handling.
+- Maintained an OpenAPI contract and contract-drift tests.
+- Tested edge cases and protected-field behavior.
 
-- Built a mock REST API using Python and FastAPI.
-- Defined mock users, roles, orders, and authorization scenarios.
-- Implemented bearer-token authentication handling.
-- Added role- and permission-based access-control checks.
-- Worked on BOLA and BFLA security regression tests.
-- Added order-update validation and protected-field checks.
-- Improved error handling for malformed requests and invalid data.
-- Developed and maintained an OpenAPI 3.1.0 contract.
-- Added automated checks to detect differences between documented API behavior and the implementation.
-- Tested unknown resource IDs, missing credentials, invalid status values, and access-denial scenarios.
-- Used Git branches, commits, and collaborative repository workflows.
+**Stack:** Python · FastAPI · Pydantic · OpenAPI · Git
 
-**Technology stack:** Python · FastAPI · Pydantic · OpenAPI · JSON · Git · GitHub · Automated Testing
+<a href="https://github.com/madhab-tech-cyber/APIsenX"><strong>↗ Explore APIsenX</strong></a>
 
-**Current focus:** Token-security testing, including expired, altered, replayed, and wrong-role tokens, followed by verification that authentication and authorization fail safely.
+</td>
+<td width="50%" valign="top">
 
-**Engineering principle:** A successful response is not enough. Security tests must also verify denied access, unchanged protected data, correct error responses, and consistency between implementation and documentation.
+### 💰 Personal Finance Tracker
+**Web Application**
 
-> The token-security work is an active testing objective; it should not be considered complete until the relevant tests have been executed and verified.
+A project for tracking personal income, expenses, and financial activity.
 
-### 🤖 2. AI Cyber Investigator — Cybersecurity Project Concept
+- Frontend built with HTML, CSS, and JavaScript.
+- Node.js and Express backend.
+- PostgreSQL integration.
+- API-based communication between frontend and backend.
 
-A cybersecurity project concept focused on helping investigators analyze suspicious activity and organize incident evidence.
+**Stack:** HTML · CSS · JavaScript · Node.js · Express · PostgreSQL
 
-**Planned areas of exploration:**
-- Suspicious email and phishing analysis.
+<a href="https://github.com/pappukumar96727-sketch/personalfinancetracker"><strong>↗ View Repository</strong></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Cyber Investigator
+**Cybersecurity Project Concept**
+
+A concept for assisting security investigations and organizing suspicious-activity evidence.
+
+- Suspicious-email and phishing analysis.
 - Incident investigation workflows.
 - Threat-intelligence correlation.
-- AI-assisted security analysis.
-- Structured investigation reports.
+- AI-assisted analysis and reporting.
 
-**Potential technology stack:** Python · AI/ML · FastAPI · Cybersecurity APIs
+**Exploring:** Python · AI · Cybersecurity · FastAPI
 
-*Project concept and exploration; planned capabilities are not represented as completed features.*
+*Concept / exploration; planned capabilities are not claimed as implemented.*
 
-### 💰 3. Personal Finance Tracker
+</td>
+<td width="50%" valign="top">
 
-A web application project for organizing personal income, expenses, and financial activity.
+### 🛡️ Cyber Crime Reporting Portal
+**Java Web Application Concept**
 
-**Project areas:**
-- Frontend development using HTML, CSS, and JavaScript.
-- Backend API development using Node.js and Express.
-- PostgreSQL integration.
-- API requests and environment-based configuration.
+A portal concept for submitting cybercrime complaints and tracking their progress.
 
-**Technology stack:** HTML · CSS · JavaScript · Node.js · Express · PostgreSQL
+**Planned areas:** Complaint submission · Evidence handling · Status tracking
+
+**Stack:** Java · Spring Boot · MySQL · Thymeleaf
+
+*Listed as a previous project concept, not as a currently maintained project.*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🧪 API Security Testing Interests
+## 🔬 API Security: What I'm Practicing
 
-I am developing practical experience in testing common API security weaknesses:
-
-| Security area | What I focus on |
+| Security area | Test objective |
 |---|---|
-| Authentication | Missing, invalid, expired, and altered credentials |
-| Authorization | Role and permission enforcement |
-| BOLA / IDOR | Preventing unauthorized access to other users' objects |
-| BFLA | Preventing unauthorized access to privileged functions |
-| Input validation | Missing fields, invalid values, malformed JSON |
-| Data integrity | Ensuring denied updates do not mutate protected data |
-| Error handling | Consistent and safe HTTP error responses |
-| Contract validation | Matching OpenAPI documentation to runtime behavior |
-| Regression testing | Ensuring security fixes do not introduce new weaknesses |
+| Authentication | Check missing, invalid, expired, and altered credentials |
+| Authorization | Verify role and permission enforcement |
+| BOLA / IDOR | Prevent access to another user's resources |
+| BFLA | Prevent unauthorized use of privileged endpoints |
+| Input validation | Test missing fields, invalid values, and malformed JSON |
+| Data integrity | Verify denied updates do not change protected data |
+| Error handling | Check safe and consistent error responses |
+| Contract validation | Compare documented OpenAPI behavior with the implementation |
+| Regression testing | Ensure fixes remain effective across test runs |
 
-These are learning and testing areas. Each vulnerability or protection should be reported as verified only when supported by reproducible test evidence.
+> I treat a security issue as verified only when reproducible tests and evidence support the finding. Current work and planned tests are kept distinct from completed results.
 
----
+## 🗺️ Learning Roadmap
 
-## 📊 GitHub Statistics
+- [x] Define APIsenX mock users, roles, orders, and authorization scenarios.
+- [x] Implement the mock API and core access-control behavior.
+- [x] Document API endpoints with OpenAPI.
+- [x] Expand authentication, authorization, and edge-case regression tests.
+- [x] Add automated API contract validation.
+- [ ] Complete and verify Day 12 token-security tests.
+- [ ] Test expired, altered, replayed, and wrong-role tokens.
+- [ ] Record test evidence and confirm the final branch/integration status.
+- [ ] Improve Java, DSA, and problem-solving skills.
+- [ ] Build practical AI-powered cybersecurity workflows.
+- [ ] Continue learning cloud security and secure development.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pappukumar96727-sketch&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappukumar96727-sketch&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pappukumar96727-sketch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" alt="GitHub contribution streak"/>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pappukumar96727-sketch&bg_color=0d1117&color=c9d1d9&line=00c7ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pappukumar96727-sketch?tab=overview">
-    <img src="https://img.shields.io/badge/View-GitHub%20Contributions-161b22?style=for-the-badge&logo=github&logoColor=00C7FF" alt="View GitHub contributions"/>
-  </a>
-</p>
-
-*Note: These widgets depend on GitHub contribution data and third-party services. They may load slowly or become temporarily unavailable. Contribution activity is not a measure of security expertise.*
+<sub>Checklist reflects the documented project journey; token-security tasks remain open until actually tested and verified.</sub>
 
 ---
 
-## 🎯 Current Learning Roadmap
+## 📊 GitHub Dashboard
 
-### APIsenX — Member 5
+<div align="center">
 
-- [x] Define mock users, roles, orders, and authorization scenarios.
-- [x] Implement the mock API and core authorization behavior.
-- [x] Create and maintain the OpenAPI contract.
-- [x] Strengthen authentication and authorization regression coverage.
-- [x] Add edge-case testing and API contract validation.
-- [x] Work on consistent error responses and protected-field validation.
-- [ ] Complete Day 12 token-security tests.
-- [ ] Verify expired, altered, replayed, and wrong-role token behavior.
-- [ ] Review the complete test results and confirm all security regressions pass.
-- [ ] Document evidence and confirm the final branch and integration status.
+<a href="https://github.com/pappukumar96727-sketch">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pappukumar96727-sketch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/pappukumar96727-sketch">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappukumar96727-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages"/>
+</a>
 
-*The completed items reflect the documented development work so far. The current token-security tasks remain open until verified.*
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=pappukumar96727-sketch&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak"/>
+</a>
 
-### Personal Development
+<a href="https://github.com/pappukumar96727-sketch">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pappukumar96727-sketch&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph"/>
+</a>
 
-- [ ] Improve Java, object-oriented programming, and data structures and algorithms.
-- [ ] Deepen knowledge of API security and secure coding.
-- [ ] Improve Python testing and automation skills.
-- [ ] Explore AI-assisted cybersecurity investigation workflows.
-- [ ] Learn more about cloud security and deployment.
-- [ ] Continue contributing to team projects and open-source repositories.
+</div>
+
+<sub>Stats and activity charts are generated by external services and may be delayed, unavailable, or affected by their configuration. They reflect available GitHub data, not verified skill levels.</sub>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect & Build
 
-<p align="center">
-  <a href="https://github.com/pappukumar96727-sketch">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/madhab-tech-cyber/APIsenX">
-    <img src="https://img.shields.io/badge/Explore-APIsenX-0A66C2?style=for-the-badge&logo=github" alt="APIsenX"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Learn daily. Test thoroughly. Build securely. Contribute with purpose. 🚀</i>
-</p>
+<a href="https://github.com/pappukumar96727-sketch">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://github.com/madhab-tech-cyber/APIsenX">
+  <img src="https://img.shields.io/badge/Explore-APIsenX-0A66C2?style=for-the-badge&logo=github" alt="Explore APIsenX"/>
+</a>
+
+<br/>
+
+### 💫 “Learn daily. Test thoroughly. Build securely.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7B2FF7,50:0B3D91,100:050816" width="100%" alt="Decorative neon footer"/>
+
+</div>
+'''
+
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created {path} ({len(readme)} characters)")
