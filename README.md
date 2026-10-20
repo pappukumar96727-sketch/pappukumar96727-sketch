@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:0B3D91,100:7B2FF7&text=Pappu%20Kumar&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Cybersecurity%20%7C%20API%20Security%20%7C%20Java%20%7C%20AI&descAlignY=59&descSize=17" width="100%" alt="Pappu Kumar profile header"/>
@@ -226,10 +224,3 @@ A portal concept for submitting cybercrime complaints and tracking their progres
 ### 💫 “Learn daily. Test thoroughly. Build securely.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7B2FF7,50:0B3D91,100:050816" width="100%" alt="Decorative neon footer"/>
-
-</div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({len(readme)} characters)")
